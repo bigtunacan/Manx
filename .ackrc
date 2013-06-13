@@ -1,0 +1,4 @@
+--type-set=cucumber=.feature
+--type-add=php=.inc,.tpl
+--type-add=css=.sass,.scss,.less
+--type-set=log=.log
