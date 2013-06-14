@@ -1,8 +1,6 @@
 Manx
 ====
 
----
-
 This is just a few customizations I've added to some of the Mac OSX
 programmeer tools that I use. Right now this includes ctags, ack, and
 vim.
