@@ -5,3 +5,10 @@ let g:ctrlp_regexp = 1
 let g:ctrlp_by_filename = 1
 let g:ctrlp_max_height = 20
 let g:ctrlp_show_hidden = 1
+
+" Set syntax highlighting for
+" specific file extensions
+au BufReadPost *.pl set syntax=prolog
+" This is supposed to autoupdate our tags on file save
+" This does not work; it pops information into Vim buffer instead
+" au BufWritePost *.js,*.coffee,*.rb,*.feature,*.java,*.c,*.cpp,*.h silent! !ctags -R &

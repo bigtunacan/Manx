@@ -1,0 +1,17 @@
+[user]
+	name = Joiey Seeley
+	email = joiey.seeley@gmail.com
+[color]
+	ui = auto
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+  df = diff
+  lg = log -p
+  lsd = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[core]
+	editor = /usr/bin/vim
+[push]
+	default = nothing

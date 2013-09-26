@@ -22,3 +22,8 @@ $ ~ ==> $/Users/YourUsername/
 Because Mac OSX releases are named after cats, and because my cat Jinx
 is a Manx and she is the most loving wonderful cat in the world, even
 if she doesn't have a tail. 
+
+Files that should be included <Update this shit...>
+.inputrc
+.vimrc
+.tmux.conf
