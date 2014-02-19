@@ -12,3 +12,4 @@ au BufReadPost *.pl set syntax=prolog
 " This is supposed to autoupdate our tags on file save
 " This does not work; it pops information into Vim buffer instead
 " au BufWritePost *.js,*.coffee,*.rb,*.feature,*.java,*.c,*.cpp,*.h silent! !ctags -R &
+set lazyredraw
